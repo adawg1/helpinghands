@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/helpinghands/static/css/main.43e8473f.chunk.css",
-    "main.js": "/helpinghands/static/js/main.99abc960.chunk.js",
-    "main.js.map": "/helpinghands/static/js/main.99abc960.chunk.js.map",
+    "main.js": "/helpinghands/static/js/main.c52b55c4.chunk.js",
+    "main.js.map": "/helpinghands/static/js/main.c52b55c4.chunk.js.map",
     "runtime-main.js": "/helpinghands/static/js/runtime-main.337f5093.js",
     "runtime-main.js.map": "/helpinghands/static/js/runtime-main.337f5093.js.map",
     "static/js/2.c71d2349.chunk.js": "/helpinghands/static/js/2.c71d2349.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.337f5093.js",
     "static/js/2.c71d2349.chunk.js",
     "static/css/main.43e8473f.chunk.css",
-    "static/js/main.99abc960.chunk.js"
+    "static/js/main.c52b55c4.chunk.js"
   ]
 }
