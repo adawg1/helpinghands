@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/helpinghands/static/css/main.1766b397.chunk.css",
+    "main.css": "/helpinghands/static/css/main.81417aaf.chunk.css",
     "main.js": "/helpinghands/static/js/main.b399de5d.chunk.js",
     "main.js.map": "/helpinghands/static/js/main.b399de5d.chunk.js.map",
     "runtime-main.js": "/helpinghands/static/js/runtime-main.6f07f2ff.js",
@@ -10,14 +10,14 @@
     "static/js/3.9a5f097c.chunk.js": "/helpinghands/static/js/3.9a5f097c.chunk.js",
     "static/js/3.9a5f097c.chunk.js.map": "/helpinghands/static/js/3.9a5f097c.chunk.js.map",
     "index.html": "/helpinghands/index.html",
-    "static/css/main.1766b397.chunk.css.map": "/helpinghands/static/css/main.1766b397.chunk.css.map",
+    "static/css/main.81417aaf.chunk.css.map": "/helpinghands/static/css/main.81417aaf.chunk.css.map",
     "static/js/2.1f375e33.chunk.js.LICENSE.txt": "/helpinghands/static/js/2.1f375e33.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/helpinghands/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f07f2ff.js",
     "static/js/2.1f375e33.chunk.js",
-    "static/css/main.1766b397.chunk.css",
+    "static/css/main.81417aaf.chunk.css",
     "static/js/main.b399de5d.chunk.js"
   ]
 }
